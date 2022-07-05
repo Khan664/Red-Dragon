@@ -23,7 +23,7 @@ global.alivemsg = `My name is devil king🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+923080613785'] //Owner number in aive msg
-global.premium = ['+923080713785'] //Owner Number info
+global.premium = ['+923080613785'] //Owner Number info
 global.ownernomer = '+923080613785' //Owner Number <<<
 
 global.ownername = '😎devil king//Owner Name
